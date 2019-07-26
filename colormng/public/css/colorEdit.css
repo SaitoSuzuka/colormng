@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+/*編集画面のcss*/
+
+
+.button1{
+	text-align: center;
+}
+.c{
+	float: left;
+	display: none;
+}
+
+#color1,#color2,#color3,#color4,#color5,#color6{
+	width:50px;
+	background-color: transparent;
+    border: none;
+    padding: 0;
+    outline: none;
+    box-sizing: 0;
+    border:0;
+	border:solid 1px #ccc;
+	outline: rgb(0, 0, 0) dashed 0px;
+	box-sizing: content-box;
+	outline-offset: 0px;
+}
+
+#color11,#color22,#color33,#color44,#color55,#color66{
+	width:85px;
+	height: 30px;
+}
+
+.kensaku-area tr{
+	width: 90%;
+}
+.kensaku-area th{
+	width: 20%;
+}
+

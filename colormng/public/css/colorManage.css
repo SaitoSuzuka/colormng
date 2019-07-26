@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+/*管理画面*/
+
+
+/* 一覧表示 */
+#button1{
+	float: left;
+}
+#button2{
+	float: right;
+}
+
+.color_list a{
+	width: 50px;
+}
