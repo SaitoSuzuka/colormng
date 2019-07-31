@@ -49,7 +49,7 @@
                     			<td></td>
             				</tr>
                     		<tr>
-                    			<th>クリックしして色を選択</th>
+                    			<th>クリックして色を選択</th>
             					<td colspan="3">
         							<div class="c color2">
         								<input type="color" value="{{ $color1 }}" class="c2 color1 " id="color1" name="color1" onChange="change();" />
